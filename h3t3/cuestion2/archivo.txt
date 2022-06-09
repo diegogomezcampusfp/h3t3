@@ -1,0 +1,10 @@
+¿Cuantos años tienes?
+¿Como te llamas?
+¿Donde estudias?
+¿Que lenguaje de programación es este?
+¿2 + 5?
+¿5 + 5?
+¿De que equipo eres?
+¿Que día es tu cumpleaños?
+¿Estas estudiando?
+¿Cuantas preguntas hay en este archivo?
